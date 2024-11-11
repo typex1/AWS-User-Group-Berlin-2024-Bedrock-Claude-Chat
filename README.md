@@ -3,13 +3,10 @@
 **Outline:**
 Everyone who is excited about how to solve business challenges with Generative AI should keep an eye on what AWS has to offer as official proof of concepts in Github. My talk is a deep dive into this absolute gold project, accessible via https://github.com/aws-samples/bedrock-claude-chat . I will cover how to install, customer feedback we received and things to keep in mind to maintain a high level of security.
 
-**Use cases and how to implement the solutions:**
-
-* **Use case 1**: "Summary of a meeting recording"
-  * Business problem: you have meeting recordings, but it is a lot of effort to transcribe and extract the key discussion points.
-  * Solution: a fully automated pipeline to do both document hosting, transcription and key topics extraction using AWS services and any of the LLMs provided by Amazon Bedrock.
+**Topics covered:**
   
-    
+* **CloudWatch logs search**
+  * CloudWatch Logs Insights query collection: https://github.com/typex1/CloudWatch-Logs-Insights-Queries
 
 **Further reading:**
 * https://github.com/aws-samples/genai-quickstart-pocs
