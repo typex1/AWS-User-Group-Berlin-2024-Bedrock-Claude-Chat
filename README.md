@@ -8,6 +8,7 @@ Everyone who is excited about how to solve business challenges with Generative A
 * Amazon Bedrock 
   * Playground and Model Access
   * Cost models / cross Region inference: https://docs.aws.amazon.com/bedrock/latest/userguide/cross-region-inference.html
+  * https://aws.amazon.com/blogs/machine-learning/getting-started-with-cross-region-inference-in-amazon-bedrock/
     * Example code: https://github.com/typex1/AWS-User-Group-Berlin-2024-Bedrock-Claude-Chat/blob/main/code/bedrock-cross-region-inference.sh
 
 * Working backwards from the customer - which features are relevant?
